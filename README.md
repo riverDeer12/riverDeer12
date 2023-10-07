@@ -1,4 +1,4 @@
-# Hello, I'm @riverDeer12 👋🏻🦌
+# Hello👋🏻, I'm @riverDeer12 🦌
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer based in Rijeka, Croatia. Here, you'll find a collection of projects and contributions that reflect my interests and skills.
 
