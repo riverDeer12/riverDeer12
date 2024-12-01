@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer based in Rijeka
 
 ## About Me
 
-- 🔭 I’m currently working on b2b-frontend.
+- 🔭 I’m currently working on gym-manager.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 📫 How to reach me: info@rdd.software
 
