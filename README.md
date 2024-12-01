@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer based in Rijeka
 
 - 🔭 I’m currently working on b2b-frontend.
 - 🌱 I’m constantly learning and exploring new technologies.
-- 📫 How to reach me: mtrbojevic12@gmail.com
+- 📫 How to reach me: info@rdd.software
 
 ## Let's Connect!
 
