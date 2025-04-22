@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer based in Rijeka
 
 ## About Me
 
-- 🔭 I’m currently working on: deerlicious.
+- 🔭 I’m currently working on: deerlicious and apex-performance.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 📫 How to reach me: info@rdd.software
 
