@@ -5,9 +5,7 @@
 I build backend APIs, web and mobile applications, mostly with **.NET**, **Angular** and native **iOS/Android**. Through RDD Software I work with clients on custom software, from the database to the user interface.
 
 <p>
-  <a href="https://www.linkedin.com/in/milan-trbojevic12/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="mailto:info@rdd.software"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/milan-trbojevic12/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a></p>
 
 🌐 [rdd.software](https://rdd.software) · 📫 [info@rdd.software](mailto:info@rdd.software)
 
