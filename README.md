@@ -5,11 +5,11 @@
 I build backend APIs, web and mobile applications, mostly with **.NET**, **Angular** and native **iOS/Android**. Through RDD Software I work with clients on custom software, from the database to the user interface.
 
 <p>
-  <a href="https://rdd.software"><img src="https://img.shields.io/badge/Website-rdd.software-0A66C2?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/milan-trbojevic12/"><img src="https://img.shields.io/badge/LinkedIn-Milan%20Trbojevic-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/MilanTrbojevic2"><img src="https://img.shields.io/badge/X-@MilanTrbojevic2-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
-  <a href="mailto:info@rdd.software"><img src="https://img.shields.io/badge/Email-info@rdd.software-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/milan-trbojevic12/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:info@rdd.software"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
 </p>
+
+🌐 [rdd.software](https://rdd.software) · 📫 [info@rdd.software](mailto:info@rdd.software)
 
 ## 🛠️ Tech stack
 
